@@ -2,6 +2,10 @@ header {
     background-color: maroon;
     color: white;
   }
+body {
+  background-color: firebrick;
+}
+
   nav {
     background-color: darkred;
 }
